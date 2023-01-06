@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Local Meetup",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stadtbild_M%C3%BCnchen.jpg/1280px-Stadtbild_M%C3%BCnchen.jpg",
+    "address": "Cairo",
+    "description": "Local Meetup Description",
+    "_id": "63b5ebb457bdad6c00e9c60aa"
+  },
+  {
+    "title": "Third Meetup",
+    "image": "https://www.youtube.com/",
+    "address": "Some address 5, 12345 Some City",
+    "description": "Third Meetup desc",
+    "_id": "63b5ebb457bdad6c00e9c60a"
+  },
+  {
+    "title": "Fourth Meetup",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/C9B5617-Pano.jpg/220px-C9B5617-Pano.jpg",
+    "address": "Fourth Meetup Address",
+    "description": "Fourth Meetup Description",
+    "_id": "63b5ec07fc304a0145c29f50"
+  },
+  {
+    "title": "6th Meetup",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/cdPir%C3%A2mides_Qu%C3%A9ops%2C_Qu%C3%A9fren_e_Miquerinos.jpg/600px-Pir%C3%A2mides_Qu%C3%A9ops%2C_Qu%C3%A9fren_e_Miquerinos.jpg",
+    "address": "Some address 6, 12345 Some City",
+    "description": "6th Meetup desc",
+    "_id": "63b5ecc2e4d4fc82a6093522"
+  }
+]
